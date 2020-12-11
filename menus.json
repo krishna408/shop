@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Jeans",
+  "image": "jeans.jpg",
+  "price": "250",
+  "gender": "Male"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Shirt",
+  "image": "shirt.jpg",
+  "price": "300",
+  "gender": "Male"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "TShirt",
+  "image": "tshirt.jpg",
+  "price": "200",
+  "gender": "Male"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Saree",
+  "image": "saree.jpg",
+  "price": "500",
+  "gender": "Female"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Lahnga",
+  "image": "lahnga.jpg",
+  "price": "350",
+  "gender": "Female"
+}]
